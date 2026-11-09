@@ -1,0 +1,13 @@
+scripts/
+*.zip
+*.txt
+!requirements.txt
+!reference_promos.txt
+parsed/
+outputs*/
+.cache/
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
